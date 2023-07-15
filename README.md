@@ -1,5 +1,4 @@
 _Please note that I'm solo on this project at the moment and will always welcome help. I'm still learning programming language and jargon. Thank you for your understanding and patience!_
-
 # AutoPaLM
 
 AutoPaLM is a Python-based AI program created with the help of GPT-4 and other LLMs. This was started from scratch. The program stores and manages the generated content in a memory system, allowing for context-aware responses and the ability to filter, archive, and retrieve information based on user input.
