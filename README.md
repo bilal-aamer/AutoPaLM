@@ -60,3 +60,5 @@ I'm so excited to see how both Auto-PaLM and Auto-GPT will continue to push the 
 
 
 **For any issues raise a issue in the issues tab**
+
+<packages to be installed are yet to be finalized>
