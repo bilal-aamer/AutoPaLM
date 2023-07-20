@@ -50,7 +50,7 @@ Users can interact with the program by entering the following commands:
 
 ## Contributing
 
-I welcome contributions to improve the Auto-PaLM program. Please feel free to submit suggestions and issues to discuss potential improvements or report bugs, and even help me understand terms and the correct process of open-source projects. 🙂
+I welcome contributions to improve the Auto-PaLM program. Please feel free to submit suggestions and issues to discuss potential improvements or report bugs, and even help me understand terms and the correct process of open-source projects.
 
 ## A Special Thank You
 
