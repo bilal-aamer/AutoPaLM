@@ -3,6 +3,7 @@ _Please note that I'm solo on this project at the moment and will always welcome
 
 AutoPaLM is a Python-based AI program created with the help of PaLM and other LLMs. This was started from scratch. The program stores and manages the generated content in a memory system, allowing for context-aware responses and the ability to filter, archive, and retrieve information based on user input.
 
+
 ## Features
 
 - Generate questions and answers based on user-defined prompts
