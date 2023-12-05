@@ -30,7 +30,7 @@ python main.py
 
 - `set_clear_goals()`: Allows users to define goals for the AI system.
 - `generate_text(prompt)`: Generates text based on the given prompt.
-- `process_answer(question, answer, memory)`: Processes the answer, detects code snippets, and updates the memory.
+- `process_answer(question, answer, memory)`: Processes the answer, detects code snippets and updates the memory.
 - `filter_memory(memory, prompt_embedding, threshold)`: Filters the memory based on the relevancy of the given prompt.
 
 ## User Input
@@ -39,8 +39,8 @@ Users can interact with the program by entering the following commands:
 
 - Enter a prompt: Users can input a prompt for the AI to generate questions and answers based on the prompt.
 - `exit`: Exits the program.
-- `clear memory`: Clears the memory of the program.
-- Enter the number of iterations: Users can input the number of iterations for generating questions and answers. Default is 1.
+- `Clear memory`: Clears the memory of the program.
+- Enter the number of iterations: Users can input the number of iterations for generating questions and answers. The default is 1.
 
 ## Memory Settings
 
@@ -53,9 +53,9 @@ Users can interact with the program by entering the following commands:
 
 I welcome contributions to improve the Auto-PaLM program. Please feel free to submit suggestions and issues to discuss potential improvements or report bugs, and even help me understand terms and the correct process of open-source projects.
 
-I'm so excited to see how both Auto-PaLM and AutoPaLM will continue to push the boundaries of what is possible with AI in the future!
+I'm so excited to see how both AutoPaLM will continue to push the boundaries of what is possible with AI in the future!
 
 
-**For any issues raise a issue in the issues tab**
+**For any issues raise an issue in the issues tab**
 
 <packages to be installed are yet to be finalized>
