@@ -55,6 +55,59 @@ I welcome contributions to improve the Auto-PaLM program. Please feel free to su
 
 I'm so excited to see how both AutoPaLM will continue to push the boundaries of what is possible with AI in the future!
 
+If you're interested in contributing to this project, please take a moment to review the following guidelines.
+
+### How to Contribute
+
+1. **Fork the repository:** Click on the "Fork" button at the top right of this repository to create your own copy.
+
+2. **Clone your fork:** Clone your forked repository to your local machine using:
+
+    ```bash
+    git clone https://github.com/your-username/your-repo.git
+    ```
+
+3. **Create a new branch:** Create a new branch to work on your feature or bug fix using:
+
+    ```bash
+    git checkout -b feature/your-feature-name
+    ```
+
+    or
+
+    ```bash
+    git checkout -b bugfix/your-bug-fix
+    ```
+
+4. **Make changes:** Make your changes to the code, documentation, or any other relevant files.
+
+5. **Commit your changes:** Commit your changes with a descriptive commit message:
+
+    ```bash
+    git commit -m "Add your descriptive commit message here"
+    ```
+
+6. **Push to your branch:** Push your changes to your forked repository:
+
+    ```bash
+    git push origin feature/your-feature-name
+    ```
+
+7. **Submit a Pull Request:** Open a Pull Request (PR) from your forked repository to the original repository's branch.
+
+### Guidelines
+
+- Ensure your code follows the project's coding standards.
+- Provide clear and concise commit messages.
+- Keep the documentation up-to-date if relevant.
+- Test your changes thoroughly before submitting a PR.
+- Ensure your PR does not introduce breaking changes.
+
+### Code of Conduct
+
+Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project, you agree to abide by its terms.
+
+Thank you for contributing to our project! 🚀
 
 **For any issues raise an issue in the issues tab**
 
